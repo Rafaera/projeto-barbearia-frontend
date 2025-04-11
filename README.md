@@ -14,9 +14,9 @@ Este projeto é o front-end do sistema de agendamento de horários para barbeari
 - TypeScript  
 - HTML  
 - SCSS  
-- Bootstrap  
-- RxJS  
-- Angular Material  
+- Bootstrap (Biblioteca de componentes responsivos e estilizados)
+- RxJS ( Biblioteca para programação reativa, utilizada no Angular para manipulação de dados assíncronos.)
+- Angular Material (Conjunto de componentes visuais prontos e modernos)
 
 <p align="center">
   <img alt="Angular" title="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
@@ -24,5 +24,4 @@ Este projeto é o front-end do sistema de agendamento de horários para barbeari
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="SCSS" title="SCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Angular Material" title="Angular Material" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
 </p>
